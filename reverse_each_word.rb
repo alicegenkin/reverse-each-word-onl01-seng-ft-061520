@@ -7,4 +7,3 @@ newArray = []
   puts newArray.push(splitString)
 
 end
-
