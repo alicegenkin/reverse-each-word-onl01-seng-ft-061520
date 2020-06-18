@@ -5,5 +5,5 @@ def reverse_each_word(str) #takes a string
           splitString.each do |word|
           my_statements << word.reverse
           end
-          my_statements.join
+          my_statements.join(" ")
  end
