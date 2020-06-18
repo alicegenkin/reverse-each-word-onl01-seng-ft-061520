@@ -5,3 +5,4 @@ newArray = []
 splitString.each do |word|
   word.reverse
 end
+end
